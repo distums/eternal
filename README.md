@@ -1,2 +1,1 @@
-# eternal
-ZGMF-X20A
+# Just Code Snippets
